@@ -118,7 +118,7 @@ class EightPuzzleBoard:
 
     def pretty(self):
         """Pretty-print the board.
-
+        test
         Returns: a readable three-line representation of the board
         """
         brd_str = " ".join(self._board).replace(BLANK_CHAR, ".", 1)
