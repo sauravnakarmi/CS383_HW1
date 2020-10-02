@@ -7,7 +7,6 @@ class PriorityQueue:
 
     Essentially, this is wrapper around around a wrapper around heapq, as described here:
     https://docs.python.org/3.7/library/heapq.html
-    test
     """
 
     def __init__(self):
